@@ -48,6 +48,11 @@
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-jetty</artifactId>
         </dependency>
+         <dependency>
+	       <groupId>com.github.huanshare</groupId>
+	       <artifactId>huan-swagger-core</artifactId>
+	       <version>1.0.1</version>
+	   </dependency>
     </dependencies>
 
     <build>
